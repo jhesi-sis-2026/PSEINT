@@ -1,0 +1,5 @@
+Algoritmo ERJERCICIO_1
+	//REALIZA EL SALUDO INICIAL
+	Escribir "HOLA MUNDO"
+	
+FinAlgoritmo
